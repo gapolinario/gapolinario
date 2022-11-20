@@ -5,6 +5,7 @@ large fluctuations and rare events.
 - 💻 I'm currently working with [Prof. Michael Wilczek][wilc] at the University of Bayreuth, in Germany
 - 🌱 I'm currently learning Quantum Field Theory
 - 💬 Ask me about random processes, movies or south-american literature
-- 📫 Reach me at gapolinario@uni-bayreuth.de or [Mastodon](https://masto.pt/@gapolinario)
+- :books: See my publications and PhD thesis at [my webpage](https://gapolinario.github.io/)
+- 📫 Reach me at gapolinario@uni-bayreuth.de or Mastodon [@gapolinario](https://masto.pt/@gapolinario)
 
 [wilc]: https://www.wilczek.physik.uni-bayreuth.de/de/index.html
