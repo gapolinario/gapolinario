@@ -6,6 +6,6 @@ large fluctuations and rare events.
 - 🌱 I'm currently learning Quantum Field Theory
 - 💬 Ask me about random processes, movies or south-american literature
 - :books: See my publications and PhD thesis at [my webpage](https://gapolinario.github.io/)
-- 📫 Reach me at gapolinario@uni-bayreuth.de or Mastodon [@gapolinario](https://masto.pt/@gapolinario)
+- 📫 Reach me at gapolinario@uni-bayreuth.de or Mastodon [@gapolinario](https://mathstodon.xyz/@gapolinario)
 
 [wilc]: https://www.wilczek.physik.uni-bayreuth.de/de/index.html
